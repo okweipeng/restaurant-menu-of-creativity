@@ -1,4 +1,4 @@
-# Web Programming I Project - Midterm
+# Web Programming I Project
 
 This is a midterm project for the web development course. The goal is to apply the concepts learned in the first half of the term to build a creative and functional restaurant website. The website will have three linked pages:
 
