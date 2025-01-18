@@ -8,7 +8,7 @@ This is a midterm project for the web development course. The goal is to apply t
 
 ---
 
-In this project, i'll be creating a website for an restaurant. The website will consist of three pages/the following:
+In this project, i'll be creating a website for my restaurant. The website will consist of three pages/the following:
 
 ### 1. **Introduction Page**
 - This page will serve as a welcoming page for the restaurant.
