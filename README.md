@@ -15,7 +15,7 @@ In this project, i'll be creating a website for my restaurant. The website will 
 - Introduces the restaurant, provides a brief description of what I offer.
   
 ### 2. **Menu Page**
-- On this page, to list your restaurant's menu items.
+- On this page, to list restaurant's menu items.
 - Menu divided into course meal sections.
 - For each menu item, include a name, description, and price.
 - Well-organized, visually appealing, and easy to navigate.
